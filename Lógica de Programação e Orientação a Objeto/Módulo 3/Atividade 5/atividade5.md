@@ -1,10 +1,10 @@
 Pesquise sobre os grafos e apresente dois exemplos de como são utilizados no contexto tecnológico.
 
-Exemplo 1 - Malha ferroviária
+Exemplo 1 - Conexões nas redes sociais
 
-<img src="./grafo1.jpg" alt="Malha ferroviária"/>
+<img src="./grafo1.jpg" alt="Conexões nas redes sociai"/>
 
-Exemplo 2 - Conexões nas redes sociais
+Exemplo 2 - Malha ferroviária
 
-<img src="./grafo2.jpg" alt="Conexões nas redes sociais"/>
+<img src="./grafo2.jpg" alt="Malha ferroviária"/>
 

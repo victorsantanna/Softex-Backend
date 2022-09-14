@@ -1,0 +1,60 @@
+//Classifique dois objetos materiais e dois abstratos. Insira, no mínimo, três métodos e três atributos para cada.
+
+Objetos materiais:
+
+objeto: moto
+
+Atributos: 
+    fabricante: kawasaki heavy industries ltda
+    modelo: ninja
+    ano: 2020
+    cor: verde
+
+Métodos:
+    ligar()
+    acelerar()
+    freiar()
+___________________________
+
+objeto: gato
+
+Atributos:
+    raça = sem pedigree
+    sexo = fêmea
+    idade = 6 meses
+
+Métodos:
+    miar()
+    dormir()
+    caçar rato()
+
+____________________________
+
+Objetos abstratos:
+
+objeto: Conta Bancaria 
+
+Atributos:   
+    agencia: 0001
+    conta: 11111111-1
+    saldo: 100,00
+
+Métodos:
+    ver saldo()
+    transferir()
+    sacar()
+    depositar()
+
+___________________________
+
+objeto: treino
+
+Atributos:
+    tipo de treino: musculação
+    duração do treino: 90 min
+    intensidade do treino: moderada
+
+Métodos:
+    promover qualidade de vida()
+    melhorar capacidade cardiorespiratoria()
+    combater o sedentarismo()

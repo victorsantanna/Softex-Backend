@@ -1,4 +1,4 @@
-|#Crie um tipo abstrato de dado (TAD) para manipular números complexos na linguagem Python.
+#Crie um tipo abstrato de dado (TAD) para manipular números complexos na linguagem Python.
 #O método deve:
 
 #- calcular três números complexos;

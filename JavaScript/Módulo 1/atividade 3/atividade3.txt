@@ -1,0 +1,16 @@
+/* Cite três exemplos de dados utilizados no seu cotidiano (exemplo: termômetro) e pesquise três outros exemplos em que dados na internet são usados (exemplo: criação de um usuário em rede social digital).*/
+
+Dados Utilizado no cotidiano:
+
+1. Cronômetro Digital (cronometrar o tempo de treino dos alunos);
+2. Esfigmomanometro Digital (visualizar a pressão arterial dos alunos);
+3. Balança Digital (acompanhar a evoluçaõ do peso corporal dos alunos);
+
+Dados Utilizado na internet:
+
+1. Mensagens no Whatsapp;
+2. Avaliação física pelo App de Treino;
+3. Saldo bancário;
+
+
+

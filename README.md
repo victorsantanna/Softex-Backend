@@ -3,5 +3,9 @@ Atividades do curso de desenvolvimento backend do Softex Recife.
 <br>
 <br>
 ## 1. Lógica de Programação e Orientação a Objetos
-<p>  O curso tem como objetivo que você seja capaz de desenvolver e interpretar algoritmos, assim como projetar diagramas lógicos para codificar a resolução de problemas. Ao fim do curso, esperamos que você seja capaz de compreender o paradigma de orientação a objetos e os aspectos de modularização. </p>
+
+ O curso tem como objetivo que você seja capaz de desenvolver e interpretar algoritmos, assim como projetar diagramas lógicos para codificar a resolução de problemas. Ao fim do curso, esperamos que você seja capaz de compreender o paradigma de orientação a objetos e os aspectos de modularização.
 <br>
+<br>
+## 2. JavaScript
+ O curso tem como objetivo que você seja capaz de desenvolver programas a partir dos fundamentos básicos de JavaScript. Espera-se que ao fim do curso você seja capaz de desenvolver soluções aprimoradas utilizando recursos do JavaScript, a partir do paradigma de orientação a objetos. 

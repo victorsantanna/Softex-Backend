@@ -11,5 +11,6 @@ Atividades do curso de desenvolvimento backend do Softex Recife.
  O curso tem como objetivo que você seja capaz de desenvolver programas a partir dos fundamentos básicos de JavaScript. Espera-se que ao fim do curso você seja capaz de desenvolver soluções aprimoradas utilizando recursos do JavaScript, a partir do paradigma de orientação a objetos. 
 <br>
 <hr>
+<br>
 ## 3. Padrões de Desenvolvimento de Software
    Esta trilha apresenta técnicas avançadas de análise e projeto de software, com ênfase em práticas de reuso por meio do paradigma de orientação a objetos. 

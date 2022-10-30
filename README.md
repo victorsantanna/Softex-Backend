@@ -15,7 +15,7 @@ Atividades do curso de desenvolvimento backend do Softex Recife.
    Esta trilha apresenta técnicas avançadas de análise e projeto de software, com ênfase em práticas de reuso por meio do paradigma de orientação a objetos. 
 <br>
 <br>
-## 4. Noções de Banco de Dados
+## 4. Noções de Bancos de Dados
   A trilha permite identificar e analisar os diferentes modelos de bancos de dados. Com ênfase na modelagem dos dados, são abordados modelos de dados, entidades e relacionamentos, arquitetura, bem como orientações e processos para a normalização de dados. 
 <br>
 <br>

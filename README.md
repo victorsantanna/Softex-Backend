@@ -21,3 +21,7 @@ Atividades do curso de desenvolvimento backend do Softex Recife.
 <br>
 ## 5. Node.JS
    A trilha orienta a construção de aplicações back-end robustas para servir e armazenar dados, definir a lógica ou se conectar com o banco de dados utilizando a linguagem de programação JavaScript por meio do Node.JS e do framework Express. 
+<br>
+<br>
+## 6. Web Service - Server 
+  Web Services - Server 

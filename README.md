@@ -17,3 +17,7 @@ Atividades do curso de desenvolvimento backend do Softex Recife.
 <br>
 ## 4. Noções de Banco de Dados
   A trilha permite identificar e analisar os diferentes modelos de bancos de dados. Com ênfase na modelagem dos dados, são abordados modelos de dados, entidades e relacionamentos, arquitetura, bem como orientações e processos para a normalização de dados. 
+<br>
+<br>
+## 5. Node.JS
+   A trilha orienta a construção de aplicações back-end robustas para servir e armazenar dados, definir a lógica ou se conectar com o banco de dados utilizando a linguagem de programação JavaScript por meio do Node.JS e do framework Express. 
